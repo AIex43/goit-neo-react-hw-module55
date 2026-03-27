@@ -8,7 +8,7 @@ export const fetchImages = async (query, page) => {
       query,
       page,
       per_page: 12,
-      client_id: "YOUR_ACCESS_KEY",
+      client_id: "XFwT6AfxIoIREVf1-qJhR1HLMMekoDb4xTAh3m4syzI",
     },
   });
 
